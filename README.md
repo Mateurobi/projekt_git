@@ -1,2 +1,3 @@
 Moj pierwszy projekt Git
-Nauka pracy z Git i GitHub
+Wersja z galezi glownej
+
